@@ -1,0 +1,26 @@
+/* Footer.css */
+.mb-3{
+    text-align: center;
+}
+.custom-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.custom-social-icon {
+    display: flex;
+    /* margin-left: 10px; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+/* Add media queries for responsiveness */
+
+@media screen and (max-width: 768px) {
+    .custom-footer {
+        padding: 10px;
+    }
+}

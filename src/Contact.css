@@ -1,0 +1,105 @@
+/* Contact form styling */
+.contact-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contact-form label {
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+.contact-form input:hover,
+.contact-form textarea:hover {
+    border-color: #007bff;
+}
+
+.contact-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* Position the thank you message */
+.thank-you-alert {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.thank-you-alert button {
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: inherit;
+    color: #007bff;
+}
+ .contact-form-container h2 {    
+        text-align: center;
+      }
+   
+/* Responsive styling */
+@media screen and (max-width: 768px) {
+    .contact-form-container {
+        margin-top: -80px;
+        max-width: 100%;
+    }
+    .contact-form-container h2 {    
+        text-align: center;
+      }
+      .contact-form-container input,textarea{
+        display: block;
+   margin-right: 20px;
+   margin-left: -10px;
+      }
+      .thank-you-alert , button{
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    .thank-you-alert button{
+        margin-left: 130px;
+        
+    }
+ 
+    .thank-you-alert .ok  {
+       border: solid 2px #0056b3;
+        color: #0056b3;
+    }
+    
+}
+
+/* Add any additional responsive styling as needed */
