@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Project1/static/css/main.adc58820.css",
+    "main.js": "/Project1/static/js/main.73b9456d.js",
+    "static/js/453.171ddc7f.chunk.js": "/Project1/static/js/453.171ddc7f.chunk.js",
+    "static/media/Mountain1.jpg": "/Project1/static/media/Mountain1.360f65ee8258350a2484.jpg",
+    "static/media/Trip1.jpg": "/Project1/static/media/Trip1.c2d0bb7be3d6c39eab3f.jpg",
+    "static/media/Trip2.jpg": "/Project1/static/media/Trip2.b4c9712e048be7ba15d9.jpg",
+    "static/media/diana-krotova-7GIOxNS15hY-unsplash.jpg": "/Project1/static/media/diana-krotova-7GIOxNS15hY-unsplash.ce8d6748f5116067cf4f.jpg",
+    "static/media/Mountain4.jpg": "/Project1/static/media/Mountain4.7b9f54add8fe490c3996.jpg",
+    "static/media/Trip3.jpg": "/Project1/static/media/Trip3.6a6db9c7ce2bc3e6aaf7.jpg",
+    "static/media/Mountain2.jpg": "/Project1/static/media/Mountain2.1260728cce5881f3c11f.jpg",
+    "static/media/Signup.jpg": "/Project1/static/media/Signup.f4254c6b85af8a1b7206.jpg",
+    "static/media/Mountain3.jpg": "/Project1/static/media/Mountain3.f6f3131afd5e3cf93509.jpg",
+    "static/media/Plan.jpg.jpg": "/Project1/static/media/Plan.jpg.bf6dd8ee91bd112f4a5e.jpg",
+    "static/media/Home.jpg": "/Project1/static/media/Home.698fc46c43735209d8fc.jpg",
+    "static/media/About.jpg.jpg": "/Project1/static/media/About.jpg.1775daea1b44ef9b381a.jpg",
+    "index.html": "/Project1/index.html",
+    "main.adc58820.css.map": "/Project1/static/css/main.adc58820.css.map",
+    "main.73b9456d.js.map": "/Project1/static/js/main.73b9456d.js.map",
+    "453.171ddc7f.chunk.js.map": "/Project1/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc58820.css",
+    "static/js/main.73b9456d.js"
+  ]
+}
